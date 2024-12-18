@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #228B22; /*cor de fundo */
+    color: #fff;/*cor do texto*/
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+h1 {margin: 0;}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
